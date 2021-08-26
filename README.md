@@ -8,7 +8,8 @@
 - [地点](#地点)
 - [符号](#符号)
 
-## 人物 ##
+## 人物 ## 
+快捷跳转 :point_right: [自然](#自然) [事物](#事物) [地点](#地点) [符号](#符号)
 
 | :muscle: | :muscle: |  :muscle: |
 |---|---|---|
@@ -78,6 +79,7 @@
 | :suspect: `:suspect:` | :trollface: `:trollface:` |  
 
 ## 自然 ##
+快捷跳转 :point_right: [人物](#人物) [事物](#事物) [地点](#地点) [符号](#符号)
 
 | :sunny: | :sunny: | :sunny: |
 |---|---|---|
@@ -121,6 +123,7 @@
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 
 ## 事物 ##
+快捷跳转 :point_right: [人物](#人物) [自然](#自然) [地点](#地点) [符号](#符号)
 
 | :hammer: | :hammer: | :hammer: |
 |---|---|---|
@@ -213,6 +216,7 @@
 | :corn: `:corn:` |
 
 ## 地点 ##
+快捷跳转 :point_right: [人物](#人物) [自然](#自然) [事物](#事物) [符号](#符号)
 
 | :rocket: | :rocket: | :rocket: |
 |---|---|---|
@@ -254,6 +258,7 @@
 | :de: `:de:` |
 
 ## 符号 ##
+快捷跳转 :point_right: [人物](#人物) [自然](#自然) [事物](#事物) [地点](#地点)
 
 | :underage: | :underage: | :underage: |
 |---|---|---|
