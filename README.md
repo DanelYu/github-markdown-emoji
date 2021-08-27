@@ -2,14 +2,14 @@
 目录
 -----------------
 
-- [人物](#人物)
-- [自然](#自然)
-- [事物](#事物)
-- [地点](#地点)
-- [符号](#符号)
+- [人物*People*](#人物-people)
+- [自然*Nature*](#自然-nature)
+- [事物*Objects*](#事物-objects)
+- [地点*Places*](#地点-places)
+- [符号*Symbols*](#符号-symbols)
 
-## 人物 ## 
-快捷跳转 :point_right: [自然](#自然) [事物](#事物) [地点](#地点) [符号](#符号)
+## 人物 *People* ## 
+快捷跳转 :point_right: [自然*Nature*](#自然-nature) [事物*Objects*](#事物-objects) [地点*Places*](#地点-places) [符号*Symbols*](#符号-symbols)
 
 | :muscle: | :muscle: |  :muscle: |
 |---|---|---|
@@ -78,8 +78,8 @@
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` |  
 
-## 自然 ##
-快捷跳转 :point_right: [人物](#人物) [事物](#事物) [地点](#地点) [符号](#符号)
+## 自然 *Nature* ##
+快捷跳转 :point_right: [人物*People*](#人物-people) [事物*Objects*](#事物-objects) [地点*Places*](#地点-places) [符号*Symbols*](#符号-symbols)
 
 | :sunny: | :sunny: | :sunny: |
 |---|---|---|
@@ -122,8 +122,8 @@
 | :earth_americas: `:earth_americas:` | :earth_asia: `:earth_asia:` | :volcano: `:volcano:` |
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 
-## 事物 ##
-快捷跳转 :point_right: [人物](#人物) [自然](#自然) [地点](#地点) [符号](#符号)
+## 事物 *Objects* ##
+快捷跳转 :point_right: [人物*People*](#人物-people) [自然*Nature*](#自然-nature) [地点*Places*](#地点-places) [符号*Symbols*](#符号-symbols)
 
 | :hammer: | :hammer: | :hammer: |
 |---|---|---|
@@ -215,8 +215,8 @@
 | :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` | :tomato: `:tomato:` |
 | :corn: `:corn:` |
 
-## 地点 ##
-快捷跳转 :point_right: [人物](#人物) [自然](#自然) [事物](#事物) [符号](#符号)
+## 地点 *Places* ##
+快捷跳转 :point_right: [人物*People*](#人物-people) [自然*Nature*](#自然-nature) [事物*Objects*](#事物-objects) [符号*Symbols*](#符号-symbols)
 
 | :rocket: | :rocket: | :rocket: |
 |---|---|---|
@@ -257,8 +257,8 @@
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` |
 
-## 符号 ##
-快捷跳转 :point_right: [人物](#人物) [自然](#自然) [事物](#事物) [地点](#地点)
+## 符号 *Symbols* ##
+快捷跳转 :point_right: [人物*People*](#人物-people) [自然*Nature*](#自然-nature) [事物*Objects*](#事物-objects) [地点*Places*](#地点-places)
 
 | :underage: | :underage: | :underage: |
 |---|---|---|
